@@ -1,6 +1,6 @@
 ## Git education. Branches
 
-## Branch creating 
+## Branch creating s
 
 * *git branch branch_name* - команда, создающая создающая ветку с именем *branch_name*
 
@@ -13,9 +13,12 @@
 
 ## Branch merging
 
+* *git merge branch_name* - команда, осуществляющая текущей ветки с branch_name
+
+
+
+
 ## Confincts
-
-
 
 
 
