@@ -1,4 +1,4 @@
-## Git education. Branches
+## Git education. Branches.Merge.
 
 ## Branch creating s
 
